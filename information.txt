@@ -1,0 +1,8 @@
+Open index.html in an editor program and change the text around on the app, then change the links and off you go.
+Upload the app to phonegap.com, get a key from an Android maker key software (Found on the internet), upload it
+to for example Google Play and watch your sales through the Google Merchant wallet.
+
+If you find troubles with this, message me on skype: daniel.anonym or on HF: Intellectus. Please do not rate the
+ebook if you have troubles with it, once everything up and ready to run you SHOULD make tons of money.
+
+Remember to zip this file too a .zip before uploading it to phonegap.com
